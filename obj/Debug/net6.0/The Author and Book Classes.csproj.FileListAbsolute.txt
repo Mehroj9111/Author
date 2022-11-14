@@ -1,0 +1,15 @@
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\obj\Debug\net6.0\The Author and Book Classes.csproj.AssemblyReference.cache
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\obj\Debug\net6.0\The Author and Book Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\obj\Debug\net6.0\The Author and Book Classes.AssemblyInfoInputs.cache
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\obj\Debug\net6.0\The Author and Book Classes.AssemblyInfo.cs
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\obj\Debug\net6.0\The Author and Book Classes.csproj.CoreCompileInputs.cache
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\bin\Debug\net6.0\The Author and Book Classes.exe
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\bin\Debug\net6.0\The Author and Book Classes.deps.json
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\bin\Debug\net6.0\The Author and Book Classes.runtimeconfig.json
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\bin\Debug\net6.0\The Author and Book Classes.dll
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\bin\Debug\net6.0\The Author and Book Classes.pdb
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\obj\Debug\net6.0\The Author and Book Classes.dll
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\obj\Debug\net6.0\refint\The Author and Book Classes.dll
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\obj\Debug\net6.0\The Author and Book Classes.pdb
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\obj\Debug\net6.0\The Author and Book Classes.genruntimeconfig.cache
+C:\Users\hakimov9111\Desktop\C#\The Author and Book Classes\obj\Debug\net6.0\ref\The Author and Book Classes.dll
